@@ -1,0 +1,116 @@
+body{ overflow-x: hidden;}
+.contenidoespacio{
+padding-top: 30px;
+}
+.imgheader{
+    background-size: 100%;
+  background-size: cover;
+}
+.fondo{
+    background-image: url(../img/balas.jpg);
+    background-size: 100%;
+    background-size: cover;
+  font-family: 'Noto Serif', serif;
+}
+.titulo{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 5px;
+    margin: auto;    
+}
+
+.navegador{
+    background-color: black;
+    
+}
+.personajess{
+    width: 215px;
+    height: 325px;
+}
+.espacio{
+    margin-bottom: 100px;
+}
+.mainespacio{
+   min-height: 100%;
+}
+.lista{
+    list-style-type: none;
+
+}
+.contactocuadro{
+padding-top: 20px;
+padding-bottom: 30px;
+
+}
+.textofooter{
+    margin-top: 5px;
+}
+.textogian{
+    font-size: 1.5rem;
+}
+.copyright{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.contactofondo{
+    background-image: url(../img/fondo.jpg);
+    background-size: 100%;
+    background-size: cover;
+    padding-bottom: 150px ;
+   
+}
+.contactotitulo{
+padding-top: 15px;
+color: aliceblue;
+}
+.colorcuadro{
+    background-color: rgb(78, 78, 78);
+    background-blend-mode: multiply;
+   
+}
+.cuadrotexto{
+    border: solid 5px;
+    border-color: black;
+}
+.textohome{
+font-size: 1.5em;    
+
+}
+.titulohome{
+    padding-top: 35px;
+}
+.subtitulohome{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.cuadrohome{
+padding-top: 4%;
+padding-bottom: 4%;
+
+}
+.titulopersonajes{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.textocheck{
+    font-size: 1.5em;
+}
+.subtituloprocesar{
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.agregar{
+    padding-bottom: 50px;
+}
+.margen{
+    padding-bottom: 100px;
+}
